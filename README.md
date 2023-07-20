@@ -14,7 +14,8 @@ Greatest Decrease
 
 The text file contains for Pypoll:
 Total Votes 
-Each candidate’s total votes and percent of votes 
+Each candidate’s total votes and percent of votes
+
 Winner
 The winner of the election based on popular vote
 
